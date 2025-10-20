@@ -3,7 +3,7 @@
 ### About Me: 
 Solution Consultant and Presales Engineer by day, and a relentless code tinkerer by night. I blend sharp commercial insight with the joy of hands-on API delivery.
 
-My sweet spot is the space where advanced AI models meet rock-solid engineering and we question about AI Regulations, Compliance, Privacy, and Ethical Concerns.  I love tearing down complex requirements and building elegant, performant solutions—especially when they involve:
+My sweet spot is the space where advanced AI models meet rock-solid engineering and where we start questioning about AI Regulations, Compliance, Security, Privacy, and Ethical Concerns.  I love tearing down complex requirements and building elegant, performant solutions—especially when they involve:
 
 Serverless AI/ML APIs: Architecting scalable, cost-effective endpoints for models (fast is fun!).
 

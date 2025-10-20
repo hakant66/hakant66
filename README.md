@@ -3,7 +3,7 @@
 ### About Me: 
 I’m an AI Solution Consultant and Presales Engineer who blends commercial acumen with hands-on API delivery. 
 
-### Areas of interest: 
+### On Technology stack my Areas of interest: 
 Recently I am specialising in Agentic AI, FastAPI, RAG and the Model Context Protocol (MCP) —wrapping REST APIs with guardrails so teams can use trusted data safely in LLM workflows.
 
 ### Core strengths: 
